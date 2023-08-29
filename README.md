@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Lochana Marasinghe
-- 👀 I’m interested in Software Engineering, Web Development, Robotics, IoT, and Machine Learning.
+### Lochana Marasinghe | Full-Stack Developer 👩🏻‍💻
+
+👋 Hi, I’m Lochana
+- 👀 I’m interested in Web Development, Robotics, IoT, and Machine Learning.
 - 🌱 I’m currently learning ReactJs
 - 📫 Feel free to reach out at lochanatharanganie@gmail.com
 
